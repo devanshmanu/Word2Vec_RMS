@@ -1,3 +1,6 @@
+run: 
+python script.py
+
 1. Enter the percentage of subset to form.
 
 2. a list will be printed, that is the subset of the corpus obtained. 
